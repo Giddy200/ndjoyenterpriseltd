@@ -1,4 +1,4 @@
-# NDJOY Enterprise Limited — Website
+# NDJOY Enterprise Limited (UK)
 
 The customer-care chat widget provides scripted answers based on the information published on this website and can carry enquiry details into the quote form for the current browser session. It does not connect to a live agent or send/store messages. The quote form prepares an email in the visitor's email app; configure a verified destination email or a secure server-side form service before launch to receive enquiries reliably.
 
